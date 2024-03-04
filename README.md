@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rajahamani" target="blank"><img src="https://img.shields.io/twitter/follow/rajahamani?logo=twitter&style=for-the-badge" alt="rajahamani" /></a> </p>
 
--  🖥️ Software Engineering Student **ALX Program**
+- 🤖 Alx AiCE student
+
+- 🖥️ Software Engineering Student **ALX Program**
 
 - 🌱 I’m currently learning **C and Python**
 
@@ -20,7 +22,7 @@
 </p>
 
 <h3 align="left"> Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raja2023h&show_icons=true&locale=en&layout=compact" alt="raja2023h" /></p>
 
