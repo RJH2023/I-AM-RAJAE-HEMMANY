@@ -1,4 +1,3 @@
-# I-AM-RAJAE-HEMMANY
 <h1 align="center">Hi 👋, I'm HEMMANY RAJAE</h1>
 <h3 align="center">Embrace challenges and enjoy the journey in technology. Let your passion drive you forward into new horizons.</h3>
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif">
